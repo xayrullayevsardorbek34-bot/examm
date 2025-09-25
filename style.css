@@ -1,0 +1,125 @@
+
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: Quantico;
+}
+a{
+font-family: Quantico;
+text-decoration: none;
+color: #fff;
+font-size: 20px;
+}
+header{
+display: flex;
+background-color: #272C3D;
+justify-content: space-between;
+height: 70px;
+align-items: center;
+}
+body{
+background-color: #000000;
+}
+
+nav{
+    display: flex;
+gap: 30px;
+}
+select{
+margin-right: 20px;
+background-color: #00000080;
+color: #fff;
+}
+input{
+background-color: #404864;
+}
+
+.bimg{
+width: 100%;
+height: 100%;
+}
+
+.bimg img{
+width: 100%;
+height: 100%;
+}
+main h1{
+font-size: 32px;
+color: #fff;
+text-align: center;
+}
+
+.im{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.part2{
+background-color: #1B1E27;
+width: 1189px;
+height: 928px;
+margin-top: 20px;
+align-items: center;
+text-align: center;
+}
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+text-align: center;
+flex-wrap: wrap;
+}
+
+p{
+font-size: 14px;
+color: #fff;
+}
+
+.small{
+display: flex;
+justify-content: space-between;
+text-align: center;
+align-items: center;
+}
+.card{
+width: 740px;
+height: 298px;
+margin-left: 220px;
+margin-top: 100px;
+margin-bottom: 200px;
+}
+
+.card2{
+width: 740px;
+height: 298px;
+margin-left: 220px;
+}
+
+.card h1{
+text-align: left;
+font-size: 24px;
+margin-bottom: 20px;
+
+}
+.card2 h1{
+text-align: left;
+font-size: 24px;
+margin-bottom: 20px;
+
+}
+
+footer{
+display: flex;
+justify-content: space-between;
+background-color: #272C3D;
+margin-top: 1px;
+}
+a:hover{
+color: #FF9C28;
+}
+
+footer img{
+margin-left: 2% ;
+}
